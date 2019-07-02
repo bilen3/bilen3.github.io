@@ -1,0 +1,18 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+	padding: 0px;
+    margin:0;
+    background:url(geometric-grey-background_1055-3147.jpg);
+    height: 50px;
+}
+#header nav{
+    float: right;
+    margin-top:100px;
+}
+
+#header a:hover{
+    color:rgb(175, 35, 17);
+    font-weight: bold
+}
